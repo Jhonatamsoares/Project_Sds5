@@ -23,6 +23,4 @@ public class SellerControler {
 		List<SellerDTO> list = service.findAll();
 		return ResponseEntity.ok(list);
 	}
-	
-
 }
