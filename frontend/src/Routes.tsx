@@ -1,4 +1,4 @@
-import Dashboard from 'Pages/Dashboard';
+import Dashboard from "Pages/Dashboard";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 
 function Routes() {
